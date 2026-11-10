@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620">
+<rect x="0" y="0" width="1600" height="620" fill="#fffef8"/>
+<path d="M 79 180 L 459 181 L 461 398 L 78 402 Z" fill="#fffef8" stroke="#173a8f" stroke-width="3"/>
+<text x="270" y="235" font-family="'Patrick Hand','Comic Sans MS',cursive,sans-serif" font-size="30" fill="#1b1b1b" text-anchor="middle" transform="rotate(-1.0 270 235)">Frontend</text>
+<text x="270" y="290" font-family="'Patrick Hand','Comic Sans MS',cursive,sans-serif" font-size="26" fill="#173a8f" text-anchor="middle" transform="rotate(-1.1 270 290)">React 18</text>
+<text x="270" y="340" font-family="'Patrick Hand','Comic Sans MS',cursive,sans-serif" font-size="22" fill="#5a6a94" text-anchor="middle" transform="rotate(2.0 270 340)">Login, Dashboard, Virement</text>
+<path d="M 610 182 L 990 181 L 988 401 L 612 400 Z" fill="#fffef8" stroke="#173a8f" stroke-width="3"/>
+<text x="800" y="235" font-family="'Patrick Hand','Comic Sans MS',cursive,sans-serif" font-size="30" fill="#1b1b1b" text-anchor="middle" transform="rotate(1.0 800 235)">Backend</text>
+<text x="800" y="290" font-family="'Patrick Hand','Comic Sans MS',cursive,sans-serif" font-size="26" fill="#173a8f" text-anchor="middle" transform="rotate(0.7 800 290)">Express (MVC)</text>
+<text x="800" y="340" font-family="'Patrick Hand','Comic Sans MS',cursive,sans-serif" font-size="22" fill="#5a6a94" text-anchor="middle" transform="rotate(-1.7 800 340)">Routes, Controllers, Models</text>
+<path d="M 1141 180 L 1519 178 L 1522 400 L 1141 402 Z" fill="#fffef8" stroke="#173a8f" stroke-width="3"/>
+<text x="1330" y="235" font-family="'Patrick Hand','Comic Sans MS',cursive,sans-serif" font-size="30" fill="#1b1b1b" text-anchor="middle" transform="rotate(0.9 1330 235)">Base de données</text>
+<text x="1330" y="290" font-family="'Patrick Hand','Comic Sans MS',cursive,sans-serif" font-size="26" fill="#173a8f" text-anchor="middle" transform="rotate(1.7 1330 290)">MySQL</text>
+<text x="1330" y="340" font-family="'Patrick Hand','Comic Sans MS',cursive,sans-serif" font-size="22" fill="#5a6a94" text-anchor="middle" transform="rotate(-0.4 1330 340)">clients, comptes, transactions</text>
+<path d="M 460 290 Q 531 292 602 290" fill="none" stroke="#173a8f" stroke-width="3"/>
+<path d="M 602 290 l -18 -9 v 18 z" fill="#173a8f"/>
+<text x="535" y="260" font-family="'Patrick Hand','Comic Sans MS',cursive,sans-serif" font-size="22" fill="#5a6a94" text-anchor="middle" transform="rotate(-0.2 535 260)">fetch /api</text>
+<path d="M 990 290 Q 1061 293 1132 290" fill="none" stroke="#173a8f" stroke-width="3"/>
+<path d="M 1132 290 l -18 -9 v 18 z" fill="#173a8f"/>
+<text x="1065" y="260" font-family="'Patrick Hand','Comic Sans MS',cursive,sans-serif" font-size="22" fill="#5a6a94" text-anchor="middle" transform="rotate(1.5 1065 260)">fetch /api</text>
+<text x="800" y="520" font-family="'Patrick Hand','Comic Sans MS',cursive,sans-serif" font-size="26" fill="#173a8f" text-anchor="middle" transform="rotate(-1.6 800 520)">Authentification JWT + bcrypt  •  Déploiement Vercel</text>
+</svg>

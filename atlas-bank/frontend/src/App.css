@@ -1,0 +1,79 @@
+.app {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  background-color: #0f2a4a;
+  color: white;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 22px;
+}
+
+.carte {
+  background-color: #f4f7f9;
+  border: 1px solid #dfe7ec;
+  padding: 20px;
+  margin: 15px 0;
+}
+
+.solde-total {
+  font-size: 20px;
+  font-weight: bold;
+  color: #0e7c7b;
+}
+
+input, select {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #0e7c7b;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  margin: 4px 4px 4px 0;
+  cursor: pointer;
+}
+
+button.lien {
+  background: none;
+  color: #0f2a4a;
+  text-decoration: underline;
+}
+
+button.compte {
+  display: block;
+  width: 100%;
+  text-align: left;
+  background-color: white;
+  color: #0f2a4a;
+  border: 1px solid #dfe7ec;
+}
+
+button.compte.actif {
+  background-color: #0f2a4a;
+  color: white;
+}
+
+.erreur {
+  color: #c0272d;
+}
+
+.astuce {
+  color: #666;
+  font-size: 13px;
+}
